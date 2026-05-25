@@ -1,0 +1,2 @@
+com.itbaizhan.shopping_common.result.GlobalExceptionHandler
+com.itbaizhan.shopping_common.result.MyBlockExceptionHandler
